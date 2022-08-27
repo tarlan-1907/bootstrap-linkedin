@@ -1,0 +1,102 @@
+body{
+    background-color: #f3f2ef;
+}
+/* Top Area */
+nav{
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+.searchinput{
+    font-size: 14px;
+} 
+
+.searchbar{
+    background-color: #eef3f8;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+#navbarNav{
+    margin-left: 215px;
+}
+.navbartext{
+    font-size: 12px;
+}
+#navbarDropdown{
+   margin-top: -15px;
+}
+
+.vr{
+    height: 90%;
+}
+
+.premium{
+    width: fit-content;
+    color:#5d3b09;
+    font-size: 12px;
+    display: inline;
+    text-decoration: underline;
+    text-align: center;
+}
+
+/* Body Area */
+
+.bodyarea{
+    margin-top: 100px;
+}
+
+.left-top-panel{
+    background-color: white;
+    border-radius: 0.8rem;
+    -webkit-border-radius: 0.8rem;
+    -moz-border-radius: 0.8rem;
+    -ms-border-radius: 0.8rem;
+    -o-border-radius: 0.8rem;
+}
+
+.tempimage{
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+}
+
+.profilphoto{
+    margin: auto;
+    display: block;
+    margin-top: -15%;
+    width: 68px;
+    height: 68px;
+}
+
+.namesurname{
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+a, a:hover{
+    text-align: center;
+    text-decoration:none;
+    color: black;
+
+}
+
+.job{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 5px;
+    color: #00000099;
+}
+
+.left-top-panel-text>div>h6,div>div>h6,a>div>h6{
+    font-size: 12px;
+    text-align: left;
+}
+
+.left-top-panel-text> div:hover{
+    background-color:rgba(0,0,0,0.08);
+    cursor: pointer;
+}
+
